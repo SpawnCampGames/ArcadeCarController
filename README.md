@@ -27,7 +27,8 @@ and
 - can be unzipped and opened as a new project or
 - you can download and import the .unityPackage..
 
-In either case, if the project's layer's are missing 
+In either case, if the project's layer's are missing
+
 ![Layers](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/tags.png)
 
 - The ground is on the ground layer. (assign the whats ground variable on the car script)
@@ -35,5 +36,6 @@ In either case, if the project's layer's are missing
 - The Motor sphere goes on the motor layer.
 
 and in the project settings we want these collisions..
+
 ![Collision Matrix](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/projsettings.png)
 

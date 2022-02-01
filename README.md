@@ -1,7 +1,7 @@
 ## Arcade car controller / with collision from YT tutorial.
 Specifically from [Part 2](https://youtu.be/CpXT5So1Gbg)
 
-[Action](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/Action.gif)
+[Action](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/Action.mp4)
 
 ![Free Car](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/SpawnCampArcadeCarController.png)
 

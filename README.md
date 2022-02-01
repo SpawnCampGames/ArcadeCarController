@@ -4,14 +4,15 @@ Specifically from [Part 2](https://youtu.be/CpXT5So1Gbg)
 ![Free Car](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/SpawnCampArcadeCarController.png)
 
 Including:
--Wheel turning/ animations
--Smoke
--Trails (tire skids)
--Impact effects
+- Wheel turning/ animations
+- Smoke
+- Trails (tire skids)
+- Impact effects
+- 
 and additional acceleration and deceleration scripting
 *and some primitive cubes and barriers*
 
-**and a free car model!**
+**And a free car model!**
 
 ## BEFORE Playing Project and to clear up any errors, install the following from the Package Manager..
 

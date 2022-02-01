@@ -3,7 +3,7 @@ Specifically from [Part 2](https://youtu.be/CpXT5So1Gbg)
 
 ![Free Car](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/SpawnCampArcadeCarController.png)
 
-![Setup](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/carsetup.png)
+![logo](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/carsetup.png)
 
 ![Inspector](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/inspector.png)
  

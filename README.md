@@ -1,6 +1,8 @@
 ## Arcade car controller / with collision from YT tutorial.
 Specifically from [Part 2](https://youtu.be/CpXT5So1Gbg)
 
+[Action](https://gfycat.com/daringnauticalarmednylonshrimp)
+
 ![Free Car](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/SpawnCampArcadeCarController.png)
 
 ### Including:
@@ -12,9 +14,9 @@ Specifically from [Part 2](https://youtu.be/CpXT5So1Gbg)
 and additional acceleration and deceleration scripting
 *and some primitive cubes and barriers*
 
-### **And a free car model!**
+### *And a free car model!*
 
-## BEFORE Playing Project and to clear up any errors, install the following from the Package Manager..
+### BEFORE Playing Project and to clear up any errors, install the following from the Package Manager..
 
 ### Cinemachine
 ![Package Manager > Cinemachine](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/cinemachine.png)
@@ -27,7 +29,8 @@ and
 - can be unzipped and opened as a new project or
 - you can download and import the .unityPackage..
 
-In either case, if the project's layer's are missing 
+In either case, if the project's layer's are missing
+
 ![Layers](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/tags.png)
 
 - The ground is on the ground layer. (assign the whats ground variable on the car script)
@@ -35,5 +38,6 @@ In either case, if the project's layer's are missing
 - The Motor sphere goes on the motor layer.
 
 and in the project settings we want these collisions..
+
 ![Collision Matrix](https://github.com/SpawnCampGames/ArcadeCarController/blob/main/readme/projsettings.png)
 
